@@ -1,11 +1,10 @@
 # Arquivo: 01b-debug.py
-# ATENÇÃO: Este código continha 4 erros propositais. Todos foram corrigidos abaixo!
 
 nome = input("Digite o nome do aluno: ") # 1.imput para input
 nota1 = float(input("Digite a nota 1: ")) # 2. notal para nota1
 nota2 = float(input("Digite a nota 2: "))
 
-# 3. Adicionado parênteses 
+# 3 parênteses 
 media = (nota1 + nota2) / 2 
 
 if media >= 6.0:
